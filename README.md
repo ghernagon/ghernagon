@@ -100,7 +100,7 @@
 ## ⚡️ Find me on
 
 <p>
-  <a href="https://www.linkedin.com/in/anatal31/" target="_blank">
+  <a href="https://www.linkedin.com/in/ghernagon/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230a77b6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
